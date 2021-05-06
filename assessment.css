@@ -1,0 +1,20 @@
+body{
+    background-color: #04a6eb;
+    color: #fdffff;
+    width: 500px;
+    /*marginの設定を行うことで中央揃えになる*/
+    margin-right: auto;
+    margin-left: auto;
+}
+
+button{
+    padding: 5px 20px;
+    background-color: #337ab7;
+    color: #fdffff;
+    /*枠線をなくす*/
+    border-style: none;
+}
+
+input {
+    height: 20px;
+}
